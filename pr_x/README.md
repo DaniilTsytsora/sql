@@ -49,7 +49,7 @@ DELETE FROM Books WHERE Title = 'Книга 2';
 
 # Pr 6
 
-### Более сложные примеры можно найти [тут](https://github.com/DaniilTsytsora/sql/main/task1)
+### Более сложные примеры можно найти [тут](https://github.com/DaniilTsytsora/sql/tree/main/task1)
 
 Давайте создадим пример базы данных с таблицей "employees" и выполним некоторые из перечисленных вами запросов:
 
@@ -121,7 +121,7 @@ ALTER TABLE students ADD CONSTRAINT check_age_range CHECK (age >= 18 AND age <= 
 
 # Pr 7
 
-### Пункты с 5 находятся [тут](https://github.com/DaniilTsytsora/sql/main/task2)
+### Пункты с 5 находятся [тут](https://github.com/DaniilTsytsora/sql/tree/main/task2)
 
 1. **Создание роли:**
 
@@ -170,11 +170,11 @@ SELECT * FROM my_schema.my_table;
 
 # Pr 9
 
-### [выполнена тут](https://github.com/DaniilTsytsora/sql/main/task3)
+### [выполнена тут](https://github.com/DaniilTsytsora/sql/tree/main/task3)
 
 # Pr 10
 
-### [выполнена тут](https://github.com/DaniilTsytsora/sql/main/task4)
+### [выполнена тут](https://github.com/DaniilTsytsora/sql/tree/main/task4)
 
 # Pr 11
 
