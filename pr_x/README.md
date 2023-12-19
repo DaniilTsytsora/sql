@@ -236,6 +236,7 @@ SELECT * FROM my_schema.my_table;
 ![Иллюстрация к проекту](https://github.com/DaniilTsytsora/sql/blob/main/sqlcreens2/Screenshot_7.png)
 
 **6. Создайте индекс по столбцу bookings.total_amount. Снова проверьте план выполнения запроса. Какой метод доступа выбрал планировщик теперь?**
+
 ![Иллюстрация к проекту](https://github.com/DaniilTsytsora/sql/blob/main/sqlcreens2/Screenshot_8.png)
 
 # Pr 13
