@@ -180,8 +180,7 @@ SELECT * FROM my_schema.my_table;
 
 **1. Воспроизведите ситуацию внутристраничной очистки без участия HOT-обновлений. Проверяйте содержимое табличной и индексной страниц с помощью расширения pageinspect.**
 
-# (https://github.com/DaniilTsytsora/sql/blob/main/sqlscreens/Screenshot_1.png)
-
+![Иллюстрация к проекту](https://github.com/DaniilTsytsora/sql/blob/main/sqlscreens/Screenshot_1.png)
 **(https://github.com/DaniilTsytsora/sql/blob/main/sqlscreens/Screenshot_2.png)**
 
 **2. Воспроизведите ситуацию HOT-обновления на таблице с индексом по некоторым полям.**
